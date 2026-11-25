@@ -1,5 +1,7 @@
 # Terputer: Cannabis Strain Chemistry and Terpotype
 
+The [executed Terputer notebook](notebooks/analysis.ipynb) counts rows and columns in the archived export and extracts the upstream classification summary. Its saved cell outputs document the results of this audit. The [execution receipt](research/execution-receipts/analysis.json) identifies the exact notebook version.
+
 Standalone package for source archive variability and name-independent chemical-profile classification. The 43,018-row source export, selected derived tables, and source analysis summary are included. The notebook audits available outputs and performs a small data inventory; it does not silently rerun or claim to reproduce every upstream Colab model result.
 
 ## Run

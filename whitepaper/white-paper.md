@@ -1,5 +1,7 @@
 # Commercial cannabis terpene profiles: variability and name-independent terpotypes
 
+The [executed Terputer notebook](../notebooks/analysis.ipynb) counts rows and columns in the archived export and extracts the upstream classification summary. Its saved cell outputs document the results of this audit. The [execution receipt](../research/execution-receipts/analysis.json) identifies the exact notebook version.
+
 **Study status:** analysis results were executed in Google Colab on 2026-09-04; causal interpretation remains prospective.
 
 ## Abstract
